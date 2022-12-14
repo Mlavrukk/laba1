@@ -18,7 +18,7 @@ int main()
     cout << c;
 
     Lines d = c;
-    if (a == d) {
+    if (c == d) {
         cout << "C==D" << endl;
     }
     else {
